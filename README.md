@@ -1,6 +1,7 @@
 # 🏃‍♂️ VR Locomotion & Manipulation  
 **Course:** CSCI 4830 – Virtual Reality @ University of Georgia  
 **Developer:** Lindsay Bui 🎓  
+**Progress:** In progress - set to be complete by Nov 4, 2025.
 
 ---
 
