@@ -36,7 +36,7 @@ Build an interactive VR experience that demonstrates **multiple locomotion syste
 
 ---
 
-## Credits
+## 📄 Credits
 - **Map:** Created by polyperfect (Poly Halloween Pack)
 - **Characters:** Created by Unity Technologies (3D Stealth Game: Haunted House)
 
